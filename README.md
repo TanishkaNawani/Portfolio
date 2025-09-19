@@ -29,10 +29,6 @@ It showcases my journey in **Artificial Intelligence, Machine Learning, and Data
 
 ---
 
-## 📎 Resume
-You can view my full resume here: **[TanishkaNawani_2025_Resume.pdf]**
-
----
 ## 🔗 Portfolio Link
 This repository itself is my portfolio:  
 👉 [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
