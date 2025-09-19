@@ -31,4 +31,4 @@ It showcases my journey in **Artificial Intelligence, Machine Learning, and Data
 
 ## 🔗 Portfolio Link
 This repository itself is my portfolio:  
-👉 [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+👉 [https://github.com/your-Tanishkanawani/your-My-AI-&-ML-Portfolio](https://github.com/your-TanishkaNawani/your-My-AI-&-ML-Portfolio)
